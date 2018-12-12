@@ -1,6 +1,9 @@
 # Conway-Game-of-Life
 Conway's Game of Life
 
+
+--using p5.js library
+
 things to add
 
 1.  Color
